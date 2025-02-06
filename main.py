@@ -54,4 +54,4 @@ mess = mess.read().split('\n')
 
 for i in range(len(users)):
     send(users[i], mess[i])
-    sleep(3)
+    sleep(4)
